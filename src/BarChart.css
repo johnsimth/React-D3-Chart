@@ -1,0 +1,6 @@
+.scroll-selector {
+  fill: lightblue;
+  opacity: 0.5;
+  cursor: ew-resize;
+  border: 2px solid red;
+}
